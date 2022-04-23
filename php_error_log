@@ -1,0 +1,14 @@
+[19-Apr-2022 22:22:30 UTC] PHP Fatal error:  Uncaught Error: Class "RoutesControllers" not found in C:\xampp\htdocs\api-rest-dinamic\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\api-rest-dinamic\index.php on line 6
+[19-Apr-2022 22:47:52 UTC] PHP Warning:  Undefined variable $json in C:\xampp\htdocs\api-rest-dinamic\routes\routes.php on line 12
+[19-Apr-2022 22:48:18 UTC] PHP Warning:  Undefined variable $json in C:\xampp\htdocs\api-rest-dinamic\routes\routes.php on line 12
+[19-Apr-2022 23:59:41 UTC] PHP Parse error:  syntax error, unexpected token "return", expecting "function" or "const" in C:\xampp\htdocs\api-rest-dinamic\models\connection.php on line 9
+[20-Apr-2022 15:58:10 UTC] PHP Parse error:  syntax error, unexpected identifier "getData", expecting variable or "$" in C:\xampp\htdocs\api-rest-dinamic\routes\services\get.php on line 3
+[20-Apr-2022 15:58:21 UTC] PHP Parse error:  syntax error, unexpected identifier "getData", expecting variable or "$" in C:\xampp\htdocs\api-rest-dinamic\routes\services\get.php on line 3
+[20-Apr-2022 16:00:13 UTC] PHP Parse error:  syntax error, unexpected identifier "getData", expecting variable or "$" in C:\xampp\htdocs\api-rest-dinamic\routes\services\get.php on line 3
+[20-Apr-2022 16:01:02 UTC] PHP Parse error:  syntax error, unexpected identifier "getData", expecting variable or "$" in C:\xampp\htdocs\api-rest-dinamic\routes\services\get.php on line 3
+[20-Apr-2022 16:03:15 UTC] PHP Parse error:  syntax error, unexpected identifier "getData", expecting variable or "$" in C:\xampp\htdocs\api-rest-dinamic\routes\services\get.php on line 3
+[20-Apr-2022 16:03:18 UTC] PHP Parse error:  syntax error, unexpected identifier "getData", expecting variable or "$" in C:\xampp\htdocs\api-rest-dinamic\routes\services\get.php on line 3
+[22-Apr-2022 20:40:07 UTC] PHP Parse error:  syntax error, unexpected identifier "getData", expecting variable or "$" in C:\xampp\htdocs\api-rest-dinamic\routes\services\get.php on line 3
