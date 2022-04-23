@@ -8,3 +8,4 @@ require_once "models/connection.php";
 	require_once "controllers/routes.controller.php";
 	$index = new RoutesController();
 	$index -> index();
+echo "Modificacion en main";
